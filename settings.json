@@ -1,11 +1,18 @@
 {
+  "auto_install_extensions": {
+    "html": true,
+    "catppuccin": true,
+    "catppuccin-icons": true,
+    "markdownlint": true,
+    "markdown-oxide": true,
+  },
   "agent_servers": {
     "claude-acp": {
       "default_config_options": {
-        "mode": "auto"
+        "mode": "auto",
       },
-      "type": "registry"
-    }
+      "type": "registry",
+    },
   },
   "project_panel": {
     "dock": "left",
