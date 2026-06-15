@@ -41,4 +41,7 @@
   "ui_font_size": 16,
   "buffer_font_size": 16,
   "theme": "Catppuccin Latte",
+  "file_types": {
+    "YAML": ["hosts"],
+  },
 }
